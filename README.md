@@ -22,3 +22,5 @@ winesteam-launcher --nativewindow [path_to_game.exe] [parameters]        Native 
 winesteam-launcher --virtualwindow [path_to_game.exe] [parameters]       Virtual windowed mode.
 winesteam-launcher --nativefullscreen [path_to_game.exe] [parameters]    Native fullscreen mode.
 ```
+
+**NOTE:** You should edit some variables in the script header, the instructions on them are clear, I believe you will have no problems.
