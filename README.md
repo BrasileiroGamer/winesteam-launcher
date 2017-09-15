@@ -10,7 +10,7 @@ This script is meant to do away with this problem, I created mainly to make my l
 # Requeriments
 * Linux Based OS
 * Wine
-* Steaam (Wine)
+* Steam (Wine)
 * xdpyinfo
 * xwininfo
 
