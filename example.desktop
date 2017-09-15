@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Left 4 Dead 2
+Exec=winesteam-launcher --nativewindow "/home/lucas/Games/Steam/steamapps/common/Left 4 Dead 2/left4dead2.exe" -width 1280 -height 720 -windowed -noipx -novid -nojoy
+Icon=/home/lucas/Games/Steam/steam/games/1a8d50f6078b5d023582ea1793b0e53813d57b7f.ico
+Categories=Game;
